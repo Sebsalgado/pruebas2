@@ -21,3 +21,11 @@ for i in range(len(mg)):
 
 plt.plot(vol,mg)
 plt.show()
+
+
+print("Holaaaa mucnod")
+
+for i in range(10):
+    print(i)
+
+print("hola quew pa")
